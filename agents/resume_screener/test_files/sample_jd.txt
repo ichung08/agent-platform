@@ -1,0 +1,13 @@
+Software Engineer - Backend
+
+We are looking for a Software Engineer to join our backend team.
+
+Requirements:
+- 5+ years of Python experience
+- Experience with distributed systems and microservices
+- Strong SQL and database design skills
+- Familiarity with AWS or GCP
+
+Nice to have:
+- Experience with Temporal or similar workflow engines
+- Contributions to open source

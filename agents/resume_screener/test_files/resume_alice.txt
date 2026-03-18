@@ -1,0 +1,21 @@
+Alice Chen
+alice.chen@email.com
+
+EXPERIENCE
+----------
+Senior Software Engineer, TechCorp (2020 - Present)
+- Built microservices in Python serving 1M+ requests/day
+- Led migration from monolith to distributed architecture
+- Designed and implemented event-driven workflows
+
+Software Engineer, StartupXYZ (2017 - 2020)
+- Developed REST APIs and background job processors
+- Used PostgreSQL, Redis, and AWS (S3, Lambda)
+
+EDUCATION
+---------
+BS Computer Science, State University
+
+SKILLS
+------
+Python, SQL, AWS, Docker, Kubernetes, distributed systems

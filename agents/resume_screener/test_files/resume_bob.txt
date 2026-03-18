@@ -1,0 +1,16 @@
+Bob Smith
+bob.smith@email.com
+
+EXPERIENCE
+----------
+Junior Developer, SmallShop (2022 - Present)
+- Maintained WordPress sites and wrote PHP scripts
+- 1 year of Python for data automation
+
+EDUCATION
+---------
+Bootcamp graduate, 2022
+
+SKILLS
+------
+PHP, Python (beginner), HTML, CSS
