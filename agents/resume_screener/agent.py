@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from openai import OpenAI
 from tools import TOOLS, execute_tool
 import json
-import sys
 
 load_dotenv()
 
